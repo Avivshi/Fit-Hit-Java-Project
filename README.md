@@ -7,7 +7,7 @@ A system that assists the user monitor and maintain his diet and training progra
 
 ## Architectural Pattern
 The system is built according to the architectural pattern of MVC.
-The following is a diagram summarizing how this architecture is implemented:
+The following is a diagram that summarize the implementation of this architecture:
  
  ![image](https://user-images.githubusercontent.com/49638679/71702512-88d3f700-2dd8-11ea-9c2e-d099bf7cccf3.png)
  
